@@ -1,6 +1,8 @@
 # TaigaioVirtualBox
 Taigaio Virtual Box vagrant prepeared
 
+download link http://my-files.ru/8o2bcc
+
 Taigaio VirtualBox export file (.ova) after Vagrant Taigaio install
 
 Import this into VB
